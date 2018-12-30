@@ -51,8 +51,7 @@ So, we propose a siamese twin architecture with reference to a similar network p
 
 Table 3: Twin CNN model summary
 Layer (type)                 Output Shape              Param #   
-=================================================================
-conv2d_1 (Conv2D)            (None, 126, 126, 8)       224       
+=================================================================conv2d_1 (Conv2D)            (None, 126, 126, 8)       224       
 _________________________________________________________________
 batch_normalization_1 (Batch (None, 126, 126, 8)       32        
 _________________________________________________________________
